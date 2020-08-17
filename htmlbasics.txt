@@ -1,0 +1,29 @@
+   HTML     ->    Hyper Text Markup Language
+
+**** points to know before starting! ****
+
+1. It is mainly used for Developing Web pages.
+
+2. It is the building block and must-have/important thing in Web Dev.
+
+2. It is a perfect choice for anyone who wants to learn coding!
+
+3. this course is mainly for beginners and someone who wants to perfect their html basics.
+
+4. We will only learn HTML5, not the previous versions.
+
+5.Files must end with *.HTML, not *.txt(correct extension)
+
+6. It is not a programming language!
+
+7. Choose a better text-editor, but not Notepad!
+
+** This is only for HTML5
+Sublime-Text
+Vs-Code
+Atom
+**
+
+js - functioning HTML
+css - styling HTML
+HTML - Basic for making web-pages

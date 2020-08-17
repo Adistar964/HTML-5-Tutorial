@@ -1,0 +1,24 @@
+
+<story>
+	<title>
+	    This is the title of the story
+	</title>
+	<content>
+		Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+		Doloremque nemo sit dolores amet praesentium eos natus repellat qui? Natus voluptatem
+		tenetur officiis est eius, beatae excepturi culpa aperiam possimus inventore.lorem
+		Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit iste nesciunt temporibus a
+		ccusamus sint labore. Aliquid fugiat voluptatem officia. Provident voluptates quod a modi,
+		sed quo. Commodi facere aperiam amet!
+		Lorem, ipsum dolor sit amet consectetur adipisicing elit. At, quia dignissimos 
+		natus illo officiis accusantium ipsam, quam nemo ut laudantium magnam voluptate, alias
+		pariatur asperiores adipisci tenetur nesciunt dolorem ea!
+		Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde odit fuga mollitia,
+		perferendis modi quam iste officia molestiae ratione quidem molestias provident asperiores
+		afriqahfioeqhf Similique, ipsa dolorum vitae sequi ex quam!
+	</content>
+</story>
+
+
+
+
